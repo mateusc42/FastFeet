@@ -93,7 +93,8 @@ Foi utilizado o docker para a criação do banco de dados.
 
 Existe um usuário administrador padrão gerado através do seed: admin@fastfeet.com / 123456
 
-If you are using Insomnia as an http client, import the file: [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=FastFeet&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmateusc42%2FFastFeet%2Fmaster%server%2FInsomnia.json)
+If you are using Insomnia as an http client, import the file: 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=FastFeet&uri=https%3A%2F%2Fgithub.com%2Fmateusc42%2FFastFeet%2Fblob%2Fmaster%2Fserver%2FInsomnia.json)
 
 ## 💻 Frontend
 
